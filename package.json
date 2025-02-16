@@ -1,0 +1,14 @@
+{
+  "name": "9-user-and-video-model-with-hooks-and-jwt",
+  "version": "1.0.0",
+  "description": "models with hooks and JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Sahil",
+  "license": "ISC"
+}
