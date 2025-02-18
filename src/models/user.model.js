@@ -116,6 +116,7 @@ _id: this._id,
         }
 
     )
+    return secret
 
 }
 
